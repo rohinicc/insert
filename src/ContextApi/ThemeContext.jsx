@@ -7,8 +7,9 @@ let Theme={
         backgroundColor:"#49f527"
     },
     light:{
-        backgroundColor:"#a3d313"
+        backgroundColor:"#765ece"
     }
 }
 
 export default Theme
+
